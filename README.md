@@ -1,2 +1,2 @@
 # PracticeRepo
- A practice repository
+ A practice repository for learning github
